@@ -4,10 +4,10 @@ Em machine learning, quando queremos criar uma rede neural temos duas frameworks
 
 Tensorflow Data Validation (TFDV) analisa dados de treino e teste afim de:
 
-Computar estatística descritiva.
+* Computar estatística descritiva.
 
-deduzir um schema.
+* Deduzir um schema.
 
-Detectar anomalias nos dados.
+* Detectar anomalias nos dados.
 
 A finalidade deste notebook é demostrar o quão útil esta biblioteca pode ser, ela pode facilitar muito a nossa vida na hora da limpeza dos dados. Vale a pena mencionar que TFDV está presente nas etapas de limpeza dos dados, treinamento de um modelo, realizar previsões e deploy. Aqui iremos demonstrar como ela pode ser usada para auxiliar na Limpeza dos dados. As outras funcionalidade serão tratadas em futuros notebooks.
